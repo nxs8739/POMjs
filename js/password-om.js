@@ -49,8 +49,8 @@ const POM_strSpecialOne_Default = true;
 const POM_strSpecialTwo_Default = false;
 const POM_mkPasswordOnLoad = true;
 const POM_changeIsClick = true;
-const POM_minLength = 16;
-const POM_maxLength = 256;
+const POM_minLength = 8;
+const POM_maxLength = 24;
 const POM_sliderStep = 8;
 const POM_debug = false;
 

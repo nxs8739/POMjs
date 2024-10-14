@@ -34,8 +34,6 @@ Please see [CHANGELOG.md](CHANGELOG.md) for a list of changes.
 
 ## Customization
 
-The original Javascript source is in `password-om.js`. The `index.html` file includes `password-om.min.js`. So I suggest you make your customizations in the "unminified" .js file and then create a new `password-om.min.js` file. If you do not have access to a "minification tool", you can simply copy an "unminified" version of `password-om.js` to `password-om.min.js`, it's really not that big of a difference.
-
 Most parameters/settings can be changed in the `.js` file.
 
 ### Variables (in .js file)
